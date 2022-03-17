@@ -6,3 +6,4 @@ Autor: Jesus Gerardo Gonzalez Ramirez
 Mas lineas
 
 # Documentacion 1 (dev1)
+documentacion del desarrollador 1
